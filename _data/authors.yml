@@ -6,7 +6,7 @@ Lotte:
   links:
     - label: "Canada"
       icon: "fas fa-1g fa-fw fa-map-marker-alt"
-      url: "https://duckduckgo.com/?q=canada+map&t=h_&ia=web&iaxm=maps"
+      url: "https://duckduckgo.com/?q=canada&t=h_&ia=web&iaxm=maps"
     - label: "Email"
       icon: "fas fa-1g fa-fw fa-envelope"
       url: "mailto:lotte.chu@protonmail.com"
