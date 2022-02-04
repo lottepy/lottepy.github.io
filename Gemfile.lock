@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+
+DEPENDENCIES
+  github-pages
+  jekyll
+  jekyll-remote-theme
+  jekyll-titles-from-headings
+  minimal-mistakes-jekyll
+  wdm (>= 0.1.0)
+
+BUNDLED WITH
+   2.1.4

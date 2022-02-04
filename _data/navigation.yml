@@ -1,0 +1,15 @@
+
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+
+# documentation links
+docs: 
+  - title: Meta
+    children:
+    - title: "About"
+      url: /about/
+    - title: "Projects"
+      url: /projects/
